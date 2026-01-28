@@ -17,7 +17,7 @@
 - :technologist: I love using Software and Data open source as a solution for every `Problem`.
 - :computer: I am a expert at `Google Products`, `Cloud platforms`, `AI`, `Automation`, `SEO`, `Blockchain` 
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY PORTFOLIO](http://bento.me/navyhub).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY PORTFOLIO](http://navypm.xyz).
 - :boom: You can visit [MY WEBSITE](https://navypm.xyz).
 <br>
 
@@ -25,8 +25,8 @@
 
 <p align="center">
   <a href="https://www.skills.google/public_profiles/cf68d457-327b-48b4-984d-00ae8537559b/badges/20825293"><img src="https://drive.google.com/file/d/1uw_Qr-rdoQn0lPk2hQ0J4bC2esXQIIM2/view?usp=drive_link" alt="Google Cloud"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://drive.google.com/file/d/1S9TFvPnhoe3bY0ByjpPHi2M2DkY4qjj8/view?usp=drive_link" alt="Google Analytics"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Google Cloud innovators"/></a>
+	<a href=""><img src="https://drive.google.com/file/d/1S9TFvPnhoe3bY0ByjpPHi2M2DkY4qjj8/view?usp=drive_link" alt="Google Analytics"/></a>
+	<a href=""><img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Google Cloud innovators"/></a>
 
 
 ## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
@@ -89,7 +89,7 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Solidiy" src="https://drive.google.com/file/d/1prqZ4yOujRqWbDnnySeeo_e_LBzdW1Uh/view?usp=sharing"></a>
+    <a href="#"><img alt="Solidity" src="https://drive.google.com/file/d/1prqZ4yOujRqWbDnnySeeo_e_LBzdW1Uh/view?usp=sharing"></a>
   &emsp;
     <a href="#"><img alt="EVM" src="https://drive.google.com/file/d/1OC-3Ohlgn0pMcFvsX9wgQQraPzPzupcT/view?usp=sharing" /></a>
   &emsp;
