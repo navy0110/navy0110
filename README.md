@@ -21,6 +21,16 @@
 - :boom: You can visit [MY WEBSITE](https://navypm.xyz).
 <br>
 
+## 🌱 Ideas I'm Exploring
+
+Smart Contracts, product-led governance
+NFTS Arts Marketplace and Adoption tools
+DEFI
+Gamification
+AI-assisted product design
+Data Tools & Visualization
+Benchmark testing and benchmarking with end-user performance benefits
+
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My certifications
 
 <p align="center">
