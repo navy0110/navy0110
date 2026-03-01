@@ -13,9 +13,9 @@
 <br><br>
 
 - :school: I am a Technical Product Manager at [Master in Data Science and Innovation](https://www.ucaece.edu.ar/es/) at [Universidad de la Camara Argentina de Comercio y Servicios](https://www.ucaece.edu.ar/es/)
-- :trophy: Multiple winner of Data and web3 Hackathons
+- :: Working in projects about Visual Arts innovation, Wellness, events, VR, AR, DApps.
 - :technologist: I love using Software and Data open source as a solution for every `Problem`.
-- :computer: I am a expert at `Google Products`, `Cloud platforms`, `AI`, `Automation`, `SEO`, `Blockchain` 
+- 📑: I am a expert at `Google Products`, `Cloud platforms`, `AI`, `Automation`, `SEO`, `Blockchain` 
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY PORTFOLIO](https://v0-navytpm.vercel.app).
 - :boom: You can visit [MY WEBSITE](https://v0-navytpm.vercel.app).
