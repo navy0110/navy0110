@@ -9,5 +9,5 @@
 
 🔗 Here's my outdated portfolio 👉 
 🖱️ https://v0-navytpm.vercel.app 
-Contact: navidigitalarts@gmail.com 💌
+
 
