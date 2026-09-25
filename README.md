@@ -8,6 +8,6 @@
 ✨ Hi, I'm Navynox 🖖🏻
 
 🔗 Here's my outdated portfolio 👉 
-🖱️ https://v0-navytpm.vercel.app 
+🖱️ https://navypm.xyz 
 
 
